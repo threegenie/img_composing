@@ -9,7 +9,7 @@ test.py 파일은 합성이 어떻게 되는지 알아보기 위한 테스트 �
 
 fontmaking.py 파일이 메인 파일
 
-+ fontmaking_binary.py 추가 : 사진 합성 후 글씨의 선만 남겨 폰트의 형태를 갖춤
+(06.09) fontmaking_binary.py 추가 : 사진 합성 후 글씨의 선만 남겨 폰트의 형태를 갖춤
 
 참고 자료
 - https://076923.github.io/posts/Python-opencv-8/ (resize)
