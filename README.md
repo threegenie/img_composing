@@ -7,3 +7,7 @@
 test.py 파일은 합성이 어떻게 되는지 알아보기 위한 테스트 파일
 
 fontmaking.py 파일이 메인 파일
+
+참고 자료
+- https://076923.github.io/posts/Python-opencv-8/
+- https://m.blog.naver.com/samsjang/220502203203 
