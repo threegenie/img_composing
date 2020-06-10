@@ -11,6 +11,8 @@ fontmaking.py 파일이 메인 파일
 
 (06.09) fontmaking_binary.py 추가 : 사진 합성 후 글씨의 선만 남겨 폰트의 형태를 갖춤
 
+(06.10) fontmaking_full type.py 추가 : 한글로 4가지 형태의 음절 단위 문자 합성 가능 -> 최종 메인 파일
+
 참고 자료
 - https://076923.github.io/posts/Python-opencv-8/ (resize)
 - https://m.blog.naver.com/samsjang/220502203203 (roi 영역 지정 및 사진 영역 합성)
